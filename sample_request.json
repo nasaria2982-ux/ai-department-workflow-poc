@@ -1,0 +1,8 @@
+{
+  "request_id": "REQ-001",
+  "title": "来週のSNS投稿案を作成",
+  "description": "新商品の告知を含むX投稿案を3本作成してください",
+  "priority": "normal",
+  "contains_sensitive_data": false,
+  "external_publish": true
+}

@@ -1,0 +1,15 @@
+{
+  "request_id": "REQ-001",
+  "department": "SNS運用",
+  "risk_level": "medium",
+  "workflow": [
+    "依頼内容の整理",
+    "SNS運用として処理内容を分析",
+    "実行手順の作成",
+    "AIによる処理",
+    "結果の品質チェック",
+    "人間による確認"
+  ],
+  "human_review_required": true,
+  "status": "waiting_human_review"
+}
